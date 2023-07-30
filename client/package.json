@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.1",
+    "buffer-layout": "^1.2.2"
+  }
+}
